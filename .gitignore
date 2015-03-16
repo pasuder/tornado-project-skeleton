@@ -1,0 +1,15 @@
+.idea/
+*.iml
+*.ipr
+*.iws
+
+*.pyc
+
+MANIFEST
+
+build/
+dist/
+out/
+*.egg-info/
+
+__envi/
