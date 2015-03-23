@@ -7,5 +7,5 @@ if [ -d ${__dir}/__envi ]
 then
     . ${__dir}/__envi/bin/activate
     export PYTHONPATH=${__dir}/src
-    ${__dir}/__envi/bin/python -u ${PYTHONPATH}/python_project_skeleton/main.py
+    ${__dir}/__envi/bin/python -u ${PYTHONPATH}/tornado_project_skeleton/main.py
 fi

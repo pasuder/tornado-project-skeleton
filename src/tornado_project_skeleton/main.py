@@ -1,6 +1,6 @@
 import os
 
-from python_project_skeleton.tools import config
+from tornado_project_skeleton.tools import config
 
 
 pwd = os.path.dirname(os.path.abspath(__file__))

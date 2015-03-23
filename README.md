@@ -1,4 +1,4 @@
-# python-project-skeleton
+# tornado-project-skeleton
 
 ## Requirements
 
@@ -14,13 +14,13 @@
 
 Simply. Add to `requirements.txt`
 
-    python-project-skeleton
+    tornado-project-skeleton
 
 You can install it by python-installer
 
-    pip install python-project-skeleton
+    pip install tornado-project-skeleton
 
-Package available at https://pypi.python.org/pypi/python-project-skeleton
+Package available at https://pypi.python.org/pypi/tornado-project-skeleton
 
 ## How to contribute
 
