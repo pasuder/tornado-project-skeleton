@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>{{ title }}</title>
+</head>
+<body>
+<h2>
+    Hello World!
+</h2>
+
+<p>
+    Value for NAME is {{ name }}.
+</p>
+
+<p>
+    This page is:
+<ul>
+    {% for item in items %}
+    <li>{{ escape(item) }}</li>
+    {% end %}
+</ul>
+</p>
+</body>
+</html>
