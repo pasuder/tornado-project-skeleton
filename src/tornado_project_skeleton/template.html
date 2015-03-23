@@ -1,23 +1,57 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+
+    <!-- Custom styles for this template -->
+    <link href="static/style.css" rel="stylesheet">
+
     <title>{{ title }}</title>
 </head>
 <body>
-<h2>
-    Hello World!
-</h2>
+<div class="container">
+    <div class="page-header">
+        <h1>
+            Hello World!
+        </h1>
+    </div>
 
-<p>
-    Value for NAME is {{ name }}.
-</p>
+    <p class="lead">
+        This page will show you how to it works. You will find this template in source code.
+    </p>
 
-<p>
-    This page is:
-<ul>
-    {% for item in items %}
-    <li>{{ escape(item) }}</li>
-    {% end %}
-</ul>
-</p>
+    <p>
+        To show, how you get information from config file: value for <b>NAME</b> is <tt>{{ name }}</tt>.
+    </p>
+
+    <p>
+        This page is:
+    <ul>
+        {% for item in items %}
+        <li>{{ escape(item) }}</li>
+        {% end %}
+    </ul>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <p class="text-muted">Created with Tornado and Bootstrap.</p>
+    </div>
+</footer>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
 </body>
 </html>
