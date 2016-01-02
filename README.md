@@ -14,13 +14,11 @@
 
 Simply. Add to `requirements.txt`
 
-    tornado-project-skeleton
+    -e git+git://github.com/your-name/tornado-project-skeleton#egg=tornado-project-skeleton
 
 You can install it by python-installer
 
-    pip install tornado-project-skeleton
-
-Package available at https://pypi.python.org/pypi/tornado-project-skeleton
+    pip install -e git+git://github.com/your-name/tornado-project-skeleton#egg=tornado-project-skeleton
 
 ## How to contribute
 
