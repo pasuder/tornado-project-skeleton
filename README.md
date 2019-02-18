@@ -1,11 +1,11 @@
 # tornado-project-skeleton
 
-[![Codacy Badge](https://api.codacy.com/project/badge/grade/6f762df8132e478c9934ec0a2be595d8)](https://www.codacy.com/app/SuderPawel/tornado-project-skeleton)
-[![Code Health](https://landscape.io/github/SuderPawel/tornado-project-skeleton/master/landscape.svg?style=flat)](https://landscape.io/github/SuderPawel/tornado-project-skeleton/master)
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/6f762df8132e478c9934ec0a2be595d8)](https://www.codacy.com/app/pasuder/tornado-project-skeleton)
+[![Code Health](https://landscape.io/github/pasuder/tornado-project-skeleton/master/landscape.svg?style=flat)](https://landscape.io/github/pasuder/tornado-project-skeleton/master)
 
-[![Code Climate](https://codeclimate.com/github/SuderPawel/tornado-project-skeleton/badges/gpa.svg)](https://codeclimate.com/github/SuderPawel/tornado-project-skeleton)
-[![Test Coverage](https://codeclimate.com/github/SuderPawel/tornado-project-skeleton/badges/coverage.svg)](https://codeclimate.com/github/SuderPawel/tornado-project-skeleton/coverage)
-[![Issue Count](https://codeclimate.com/github/SuderPawel/tornado-project-skeleton/badges/issue_count.svg)](https://codeclimate.com/github/SuderPawel/tornado-project-skeleton)
+[![Code Climate](https://codeclimate.com/github/pasuder/tornado-project-skeleton/badges/gpa.svg)](https://codeclimate.com/github/pasuder/tornado-project-skeleton)
+[![Test Coverage](https://codeclimate.com/github/pasuder/tornado-project-skeleton/badges/coverage.svg)](https://codeclimate.com/github/pasuder/tornado-project-skeleton/coverage)
+[![Issue Count](https://codeclimate.com/github/pasuder/tornado-project-skeleton/badges/issue_count.svg)](https://codeclimate.com/github/pasuder/tornado-project-skeleton)
 
 ## Requirements
 
